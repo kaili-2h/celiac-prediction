@@ -11,3 +11,4 @@ cache/
 *.nb.html
 _site/
 .quarto/
+figs/
