@@ -12,3 +12,5 @@ cache/
 _site/
 .quarto/
 figs/
+README.log
+*.log
