@@ -15,3 +15,13 @@
 - (Add your **Accuracy** and **AUC** here.)
 
 **Full report (PDF):** [`report/Celiac_Report.pdf`](report/Celiac_Report.pdf)
+
+## Data
+
+The dataset comes from Kaggle:  
+[Celiac Disease (Coeliac Disease) Dataset](https://www.kaggle.com/datasets/jackwin07/celiac-disease-coeliac-disease)
+
+It contains 2,206 patient records with 15 clinical and laboratory features.
+
+### Confusion Matrix
+![Confusion Matrix](report/confusion_matrix.png)
